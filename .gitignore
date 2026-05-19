@@ -1,0 +1,11 @@
+Objects/
+Listings/
+*.o
+*.d
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.bak
+*.tmp
